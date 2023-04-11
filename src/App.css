@@ -35,4 +35,13 @@
   to {
     transform: rotate(360deg);
   }
+
+ medicine {
+    background-color: #ffcccc;
+    color: #cc0000;
+    padding: 10px;
+    border: 1px solid #cc0000;
+    border-radius: 5px;
+  }
+  
 }
